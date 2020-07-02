@@ -44,3 +44,10 @@ body
 {
     padding: 0.5em;
 }
+
+.footer-container
+{
+    padding: 0.5em;
+    background: #33A;
+    color: white;
+}
