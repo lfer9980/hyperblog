@@ -5,3 +5,4 @@ Un blog increible para iniciar en GitHub
 
 * Creado por el increible Platzi Team
 * Incluye ejemplos en windows, Linux y Mac
+* Disponible para todas las edades
