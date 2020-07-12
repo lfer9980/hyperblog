@@ -3,10 +3,7 @@ Un blog increible para iniciar en GitHub
 
 ## En este curso vemos de todo
 
-<<<<<<< HEAD
 * Creado por el increible Platzi Team
-=======
 * Creado por el increible Platzi Team
 * Incluye ejemplos en windows, Linux y Mac
 * Disponible para todas las edades
->>>>>>> readme-mejorado
